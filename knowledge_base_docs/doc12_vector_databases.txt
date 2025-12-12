@@ -1,0 +1,30 @@
+Vector Databases
+
+Vector databases are specialized databases designed to store and query high-dimensional vectors (embeddings) efficiently. They enable fast similarity search for AI applications.
+
+Key Features:
+- Efficient similarity search using approximate nearest neighbor (ANN) algorithms
+- Scalability to millions or billions of vectors
+- Metadata filtering alongside vector search
+- Real-time updates and queries
+
+Popular Vector Databases:
+- ChromaDB: Lightweight, embedded, Python-first
+- Pinecone: Managed cloud service
+- Weaviate: Open-source with GraphQL API
+- Qdrant: High-performance, written in Rust
+- Milvus: Scalable open-source solution
+- FAISS: Facebook's library for efficient similarity search
+
+Use Cases:
+- RAG systems: Store document embeddings
+- Recommendation engines: Find similar items
+- Image search: Visual similarity matching
+- Anomaly detection: Find unusual patterns
+- Semantic search: Search by meaning
+
+Query Types:
+- Similarity search: Find most similar vectors
+- Hybrid search: Combine vector and keyword search
+- Filtered search: Apply metadata filters
+- Batch queries: Process multiple queries efficiently

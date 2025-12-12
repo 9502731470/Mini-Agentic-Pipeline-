@@ -1,0 +1,26 @@
+Reinforcement Learning
+
+Reinforcement Learning (RL) is an area of machine learning where an agent learns to make decisions by performing actions in an environment to maximize cumulative reward.
+
+Key Components:
+- Agent: The learner or decision maker
+- Environment: The world the agent interacts with
+- Actions: What the agent can do
+- States: Current situation of the environment
+- Rewards: Feedback from the environment
+- Policy: Strategy the agent uses to determine actions
+
+Learning Process:
+1. Agent observes current state
+2. Agent selects action based on policy
+3. Environment transitions to new state
+4. Agent receives reward
+5. Agent updates policy based on reward
+
+Popular Algorithms:
+- Q-Learning
+- Deep Q-Networks (DQN)
+- Policy Gradient Methods
+- Actor-Critic Methods
+
+Applications: Game playing (AlphaGo, Chess), robotics, autonomous systems, recommendation systems, resource management.

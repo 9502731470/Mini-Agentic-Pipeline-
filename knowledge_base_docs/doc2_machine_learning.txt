@@ -1,0 +1,18 @@
+Machine Learning Fundamentals
+
+Machine Learning (ML) is a method of data analysis that automates analytical model building. It is based on the idea that systems can learn from data, identify patterns, and make decisions with minimal human intervention.
+
+Types of Machine Learning:
+1. Supervised Learning: Learning with labeled training data (e.g., classification, regression)
+2. Unsupervised Learning: Finding patterns in data without labels (e.g., clustering, dimensionality reduction)
+3. Reinforcement Learning: Learning through interaction with an environment using rewards and penalties
+
+Common Algorithms:
+- Linear Regression
+- Decision Trees
+- Random Forests
+- Support Vector Machines
+- Neural Networks
+- K-Means Clustering
+
+ML is used in recommendation systems, fraud detection, image recognition, and predictive analytics.

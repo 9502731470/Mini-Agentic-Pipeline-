@@ -1,0 +1,23 @@
+Agentic AI Systems
+
+Agentic AI systems are AI agents that can autonomously plan, execute actions, and achieve goals. Unlike simple chatbots, they can use tools, make decisions, and operate in dynamic environments.
+
+Key Components:
+1. Planning: Breaking down goals into steps
+2. Tool Use: Interacting with external systems (APIs, databases, web)
+3. Memory: Maintaining context across interactions
+4. Reflection: Evaluating and improving actions
+
+Architecture Patterns:
+- ReAct (Reasoning + Acting): Interleaves reasoning and action
+- Reflexion: Adds self-reflection to improve performance
+- Tool-Using Agents: Can call functions/APIs
+- Multi-Agent Systems: Multiple agents collaborating
+
+Use Cases:
+- Research assistants that search and synthesize information
+- Code generation agents that write and test code
+- Customer service agents that access databases
+- Autonomous research and development
+
+Challenges: Error handling, safety, cost management, and ensuring reliable execution.

@@ -1,0 +1,21 @@
+Neural Networks and Deep Learning
+
+Neural networks are computing systems inspired by biological neural networks. They consist of interconnected nodes (neurons) organized in layers.
+
+Architecture:
+- Input Layer: Receives the initial data
+- Hidden Layers: Process the data through weighted connections
+- Output Layer: Produces the final result
+
+Deep Learning uses neural networks with multiple hidden layers (hence "deep"). Popular architectures include:
+- Convolutional Neural Networks (CNNs) for image processing
+- Recurrent Neural Networks (RNNs) for sequence data
+- Transformers for natural language processing
+
+Training involves:
+1. Forward propagation: Data flows through the network
+2. Loss calculation: Compare output with expected result
+3. Backpropagation: Adjust weights to minimize error
+4. Iteration: Repeat until model converges
+
+Applications: Image recognition, speech recognition, natural language processing, autonomous vehicles.

@@ -1,0 +1,10 @@
+transformers>=4.36.0
+torch>=2.0.0
+sentence-transformers>=2.2.2
+chromadb>=0.4.22
+python-dotenv>=1.0.0
+requests>=2.31.0
+pandas>=2.1.4
+tavily-python>=0.3.0
+accelerate>=0.25.0
+bitsandbytes>=0.41.0  # Required for quantization (4-bit/8-bit)

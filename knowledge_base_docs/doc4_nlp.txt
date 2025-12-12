@@ -1,0 +1,16 @@
+Natural Language Processing (NLP)
+
+Natural Language Processing is a branch of AI that helps computers understand, interpret, and manipulate human language. NLP combines computational linguistics with statistical, machine learning, and deep learning models.
+
+Key Tasks:
+- Tokenization: Breaking text into words or sentences
+- Part-of-Speech Tagging: Identifying grammatical roles
+- Named Entity Recognition: Identifying people, places, organizations
+- Sentiment Analysis: Determining emotional tone
+- Machine Translation: Translating between languages
+- Question Answering: Answering questions from text
+- Text Summarization: Creating concise summaries
+
+Modern NLP uses transformer models like BERT, GPT, and T5. These models are pre-trained on large text corpora and can be fine-tuned for specific tasks.
+
+Applications: Chatbots, virtual assistants, language translation, content moderation, information extraction.

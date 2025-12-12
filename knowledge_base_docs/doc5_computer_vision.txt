@@ -1,0 +1,14 @@
+Computer Vision
+
+Computer Vision is a field of AI that trains computers to interpret and understand the visual world. Using digital images and videos, computer vision systems can identify and classify objects, and react to what they "see."
+
+Key Techniques:
+- Image Classification: Categorizing images into classes
+- Object Detection: Locating and identifying objects in images
+- Image Segmentation: Partitioning images into segments
+- Face Recognition: Identifying individuals from facial features
+- Optical Character Recognition (OCR): Extracting text from images
+
+Convolutional Neural Networks (CNNs) are the primary architecture for computer vision tasks. Popular models include ResNet, VGG, and YOLO for object detection.
+
+Applications: Autonomous vehicles, medical image analysis, security surveillance, augmented reality, quality control in manufacturing.

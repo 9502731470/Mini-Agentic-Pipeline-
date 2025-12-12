@@ -1,0 +1,28 @@
+Prompt Engineering
+
+Prompt engineering is the practice of designing effective inputs (prompts) to get desired outputs from LLMs. Well-crafted prompts can significantly improve model performance.
+
+Key Techniques:
+1. Clear Instructions: Be specific about what you want
+2. Few-Shot Learning: Provide examples in the prompt
+3. Chain-of-Thought: Ask model to show reasoning steps
+4. Role-Playing: Assign a role to the model
+5. Format Specification: Request structured outputs (JSON, XML)
+6. Iterative Refinement: Refine prompts based on results
+
+Prompt Patterns:
+- Zero-shot: Direct question without examples
+- Few-shot: Include examples of desired behavior
+- Chain-of-Thought: "Let's think step by step"
+- ReAct: "Reasoning: ... Action: ..."
+- Tree of Thoughts: Explore multiple reasoning paths
+
+Best Practices:
+- Be explicit and specific
+- Use delimiters for clarity
+- Break complex tasks into steps
+- Specify output format
+- Include constraints and requirements
+- Test and iterate on prompts
+
+Tools: LangChain, LlamaIndex, PromptLayer for prompt management and versioning.

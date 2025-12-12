@@ -1,0 +1,26 @@
+Text Embeddings
+
+Text embeddings are vector representations of text that capture semantic meaning. Similar texts have similar embeddings, enabling semantic search and similarity calculations.
+
+How Embeddings Work:
+- Text is converted to dense numerical vectors (typically 384, 512, or 1536 dimensions)
+- Similarity is measured using cosine similarity or Euclidean distance
+- Embeddings capture semantic relationships, not just word matching
+
+Embedding Models:
+- OpenAI: text-embedding-3-small, text-embedding-3-large, text-embedding-ada-002
+- Sentence Transformers: Open-source models optimized for embeddings
+- BERT-based: Domain-specific embeddings
+
+Use Cases:
+- Semantic search: Find documents by meaning, not keywords
+- Clustering: Group similar documents
+- Recommendation systems: Find similar items
+- Anomaly detection: Identify outliers
+- RAG systems: Retrieve relevant context
+
+Best Practices:
+- Use appropriate embedding model for your domain
+- Normalize embeddings for better similarity calculations
+- Consider dimensionality vs. performance trade-offs
+- Fine-tune embeddings for domain-specific tasks if needed

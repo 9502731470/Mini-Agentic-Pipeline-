@@ -1,0 +1,24 @@
+Retrieval-Augmented Generation (RAG)
+
+RAG is a technique that enhances LLM responses by retrieving relevant information from a knowledge base before generating answers. This addresses LLM limitations like outdated knowledge and hallucinations.
+
+How RAG Works:
+1. Query Processing: User question is received
+2. Retrieval: Relevant documents retrieved from knowledge base using embeddings
+3. Augmentation: Retrieved context added to LLM prompt
+4. Generation: LLM generates answer using both its training and retrieved context
+
+Benefits:
+- Access to up-to-date information
+- Reduced hallucinations
+- Ability to cite sources
+- Domain-specific knowledge integration
+- Cost-effective compared to fine-tuning
+
+Components:
+- Vector Database: Stores document embeddings (e.g., ChromaDB, Pinecone)
+- Embedding Model: Converts text to vectors (e.g., text-embedding-3-small)
+- LLM: Generates final answer
+- Retriever: Finds relevant documents
+
+Applications: Enterprise knowledge bases, customer support, research assistants, documentation systems.

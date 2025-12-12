@@ -1,0 +1,18 @@
+product_id,product_name,category,price_usd,stock,description
+1,Wireless Mouse,Electronics,29.99,150,Ergonomic wireless mouse with 2.4GHz connectivity
+2,Mechanical Keyboard,Electronics,89.99,75,RGB mechanical keyboard with Cherry MX switches
+3,USB-C Cable,Electronics,12.99,300,6ft USB-C to USB-C cable, fast charging
+4,Webcam HD,Electronics,49.99,120,1080p HD webcam with built-in microphone
+5,Standing Desk,Furniture,299.99,25,Electric height-adjustable standing desk
+6,Office Chair,Furniture,199.99,40,Ergonomic office chair with lumbar support
+7,Monitor 27inch,Electronics,249.99,60,27-inch 4K UHD monitor
+8,Laptop Stand,Furniture,39.99,200,Aluminum laptop stand, adjustable height
+9,Noise Cancelling Headphones,Electronics,179.99,90,Wireless over-ear headphones with ANC
+10,Desk Lamp,Furniture,24.99,180,LED desk lamp with adjustable brightness
+11,External SSD 1TB,Electronics,79.99,100,1TB external SSD, USB 3.2
+12,Wireless Charger,Electronics,19.99,250,Qi-compatible wireless charging pad
+13,Monitor Arm,Furniture,89.99,50,Ergonomic dual monitor arm mount
+14,USB Hub,Electronics,34.99,175,7-port USB 3.0 hub with power adapter
+15,Desk Mat,Furniture,29.99,300,Large desk mat, water-resistant surface
+
+
