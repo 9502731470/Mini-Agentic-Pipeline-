@@ -428,7 +428,3 @@ USE_FALLBACK_MODE=true
 ### Fallback Mode:
 
 If you cannot download any LLM model, set `USE_FALLBACK_MODE=true` in `.env`. This uses simple rule-based reasoning instead of LLM. See `LOW_RESOURCE_SETUP.md` for details.
-
----
-
-**Note**: Models run locally - no API costs! First run will download models. Use TinyLlama + 4-bit quantization for low-resource systems (~500MB total). See `LOW_RESOURCE_SETUP.md` for low-resource configurations.
